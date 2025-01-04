@@ -95,11 +95,11 @@ The following config can be used in `.xbindkeysrc` to use `window-grid` with key
 "window-grid 0 0 12 4"
    control+shift+KP_Divide
 
-"window-grid 3 4 3 2"
+"window-grid 0 2 3 4"
    control+shift+alt+KP_End
 "window-grid 3 2 6 4"
    control+shift+alt+KP_Down
-"window-grid 6 4 3 2"
+"window-grid 9 2 3 4"
    control+shift+alt+KP_Next
 "window-grid 0 0 3 6"
    control+shift+alt+KP_Left
